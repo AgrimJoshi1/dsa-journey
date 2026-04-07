@@ -1,4 +1,4 @@
-#QUES NO - 1
+#Problem No. 1
 '''TWO SUM'''
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
