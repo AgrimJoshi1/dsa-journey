@@ -1,5 +1,4 @@
-#Problem No. 1
-'''TWO SUM'''
+#Problem No. 1 - TWO SUM
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         d = {}

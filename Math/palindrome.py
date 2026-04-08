@@ -1,5 +1,4 @@
-#Problem No. 9 
-'''PALINDROME'''
+#Problem No. 9 - PALINDROME
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0:
