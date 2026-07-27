@@ -1,5 +1,5 @@
 //Problem Number: 704 - Binary Search
-package Arrays;
+// package Arrays;
 
 public class binarysearch {
     class Solution {

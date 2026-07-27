@@ -1,5 +1,5 @@
 //Problem No. 392 - IsSubsequence
-package Arrays;
+// package Arrays;
 
 public class issubsequence {
     class Solution {

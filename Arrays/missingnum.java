@@ -1,5 +1,5 @@
 //Problem No. 268 - Missing NUmber
-package Arrays;
+// package Arrays;
 
 import java.util.Arrays;
 
