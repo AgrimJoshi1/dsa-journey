@@ -1,7 +1,8 @@
 import java.util.*;
-public abstract class threesum {
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+
         List<List<Integer>> ans = new ArrayList<>();
 
         Arrays.sort(nums);
@@ -19,7 +20,12 @@ class Solution {
                 int sum = nums[i] + nums[left] + nums[right];
 
                 if (sum == 0) {
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                    ans.add(Arrays.asList(
+                        nums[i],
+                        nums[left],
+                        nums[right]
+                    ));
 
                     left++;
                     right--;
@@ -28,7 +34,7 @@ class Solution {
                         left++;
 
                     while (left < right && nums[right] == nums[right + 1])
-                        right++;
+                        right--;   // ⭐ IMPORTANT
 
                 } else if (sum < 0) {
                     left++;
@@ -40,7 +46,4 @@ class Solution {
 
         return ans;
     }
-}
-
-    
 }
