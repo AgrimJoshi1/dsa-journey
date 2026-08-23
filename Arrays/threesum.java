@@ -34,7 +34,7 @@ class Solution {
                         left++;
 
                     while (left < right && nums[right] == nums[right + 1])
-                        right--;   // ⭐ IMPORTANT
+                        right--;   
 
                 } else if (sum < 0) {
                     left++;
