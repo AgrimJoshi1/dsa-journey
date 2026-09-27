@@ -1,5 +1,3 @@
-import java.util.*;;
-
 public class removeduplicate {
     class Solution {
     public ListNode deleteDuplicates(ListNode head) {
