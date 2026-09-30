@@ -1,4 +1,5 @@
-// package Arrays;
+public class sumof2 {
+    // package Arrays;
 
 public class sumoftwoint {
     class Solution {
@@ -13,4 +14,6 @@ public class sumoftwoint {
         return a;
     }
 }
+}
+
 }
