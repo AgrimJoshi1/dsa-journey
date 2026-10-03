@@ -1,4 +1,5 @@
-public class uniquepaths {
+public class uniquepath {
+    public class uniquepaths {
     class Solution {
     public int uniquePaths(int m, int n) {
 
@@ -12,4 +13,6 @@ public class uniquepaths {
     }
 }
     
+}
+
 }
