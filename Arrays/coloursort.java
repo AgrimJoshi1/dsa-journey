@@ -1,4 +1,4 @@
-//Sort the colours
+//Sort the coloursw
 class Solution {
     public void sortColors(int[] nums) {
         int low = 0;
