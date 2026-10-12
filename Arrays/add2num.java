@@ -1,4 +1,4 @@
-public class add2num {
+public @interface add2num {
     /**
  * Definition for singly-linked list.
  * public class ListNode {
