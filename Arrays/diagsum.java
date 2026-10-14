@@ -1,5 +1,5 @@
 public class diagsum {
-    public class diagsum {
+    
     class Solution {
     public int diagonalSum(int[][] mat) {
         int n = mat.length;
@@ -19,4 +19,3 @@ public class diagsum {
 }
 }
 
-}
