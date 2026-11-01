@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AgrimJoshi1/dsa-journey/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/AgrimJoshi1/dsa-journey/tree/master/0264-ugly-number-ii) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AgrimJoshi1/dsa-journey/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AgrimJoshi1/dsa-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
